@@ -20,7 +20,9 @@ Begin by downloading the required datasets. All datasets are available at [Autof
 ## 💻 Training
 
 For training we provide scripts under `./scripts`. Example usage:
-
+```shell
+cd src
+```
 ```shell
 sh scripts/stage1.sh
 ```
