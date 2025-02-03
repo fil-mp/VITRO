@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ## 📊 Prepare Datasets
 
-Begin by downloading the required datasets. All datasets are available at [Autoformer](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy). Create a separate folder named `./data`. Then, place the downloaded contents under the folder.
+Begin by downloading the required datasets. All datasets are available at [Autoformer](https://drive.google.com/drive/folders/1ZOYpTUa82_jCcxIdTmyr0LXQfvaM9vIy). Create a separate folder named `./data` under `src`. Then, place the downloaded contents under the new folder.
 
 ## 💻 Training
 
