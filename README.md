@@ -40,14 +40,11 @@ sh scripts/stage2.sh
 ## 📚 Citation
 If you find this repo useful, please consider citing our paper as follows:
 ```
-@misc{bellos2024vitrovocabularyinversiontimeseries,
+@inproceedings{bellos-2025-vitro,
       title={VITRO: Vocabulary Inversion for Time-series Representation Optimization}, 
       author={Filippos Bellos and Nam H. Nguyen and Jason J. Corso},
-      year={2024},
-      eprint={2412.17921},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2412.17921}, 
+      year={2025},
+      booktitle={2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
 }
 ```
 
